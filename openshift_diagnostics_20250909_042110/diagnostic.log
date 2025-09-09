@@ -1,0 +1,6 @@
+[0;33m[2025-09-09 04:21:10] [WARN] Required command not found: oc[0m
+[0;33m[2025-09-09 04:21:10] [WARN] Missing required commands. Some collections may be skipped.[0m
+[0;33m[2025-09-09 04:21:10] [WARN] Continuing to gather available diagnostics. For full coverage, please install missing dependencies and re-run.[0m
+[0;32m[2025-09-09 04:21:10] [INFO] Starting OpenShift diagnostics collection...[0m
+[0;33m[2025-09-09 04:21:10] [WARN] oc CLI not available; skipping OpenShift data collection.[0m
+[0;32m[2025-09-09 04:21:10] [INFO] JSON summary generated at: openshift_diagnostics_20250909_042110/summary.json[0m
